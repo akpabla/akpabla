@@ -6,9 +6,9 @@
 **Bridging 13+ years of enterprise-scale delivery with rapid, AI-native execution.**  
 *Shipping autonomous agents, Advanced RAG pipelines, and vibe-coded prototypes at startup speed—backed by Fortune 500 governance.*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/arun-k-saini/))
+[![Email](https://img.shields.io/badge/Email-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arun.saini@yahoo.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akpabla/)
 
 </div>
 
