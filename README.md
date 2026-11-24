@@ -67,10 +67,10 @@ Over the last 13+ years, I’ve led globally distributed engineering teams (60+ 
 
 ### 📌 What You'll Find in My Repos
 
-- 🔹 **Synodia — AI-Enabled Agile Delivery:** My ongoing product initiative connecting PI planning, Jira-synchronized execution visibility, requirements discovery and human-approved Jira changes. Explore the [public Synodia showcase](https://github.com/TarunPabla/synodia-showcase).
-- 🔹 **Evidence-Backed AI & RAG:** Synodia's discovery foundations use requirements retrieval, hybrid search and optional reranking to support evidence-linked journeys and gap reviews. The showcase explains the approach without exposing proprietary implementation details.
-- 🔹 **Agentic AI Development:** Building toward specialist collaboration across discovery, readiness, planning, dependencies, delivery intelligence and decisions. Shared runtime foundations exist; the complete multi-agent workflow is under development.
-- 🔹 **Technical PM in Practice:** A public case study covering product priorities, architecture trade-offs, governance, regression validation and the delivery roadmap. Application source remains private.
+🔹 **Synodia — AI-Enabled Agile Delivery:** My ongoing product initiative connecting PI planning, Jira-synchronized execution visibility, requirements discovery and human-approved Jira changes. Explore the [public Synodia showcase](https://github.com/TarunPabla/synodia-showcase).
+🔹 **Evidence-Backed AI & RAG:** Synodia's discovery foundations use requirements retrieval, hybrid search and optional reranking to support evidence-linked journeys and gap reviews. The showcase explains the approach without exposing proprietary implementation details.
+🔹 **Agentic AI Development:** Building toward specialist collaboration across discovery, readiness, planning, dependencies, delivery intelligence and decisions. Shared runtime foundations exist; the complete multi-agent workflow is under development.
+🔹 **Technical PM in Practice:** A public case study covering product priorities, architecture trade-offs, governance, regression validation and the delivery roadmap. Application source remains private.
 
 **Want to see Synodia in action?** [Contact me for a demo](mailto:arunsaini@outlook.com?subject=Synodia%20Demo) or [connect on LinkedIn](https://www.linkedin.com/in/arun-k-saini). I welcome conversations with prospective employers and teams exploring AI-enabled delivery.
 
