@@ -29,16 +29,13 @@ Over the last 13+ years, I’ve led globally distributed engineering teams (60+ 
 
 ### 🛠️ Tech, AI & Delivery Stack
 
-**AI Engineering & Vibe Coding**
-
-| Technology / Practice | Focus |
-| :--- | :--- |
-| **Python** | AI development and automation |
-| **Agentic AI** | Autonomous workflows |
-| **Advanced RAG** | Hybrid search and reranking |
-| **Vibe Coding** | Rapid prototyping |
-| **Cloud Microservices** | Testing and CI/CD |
-| **Power BI** | Analytics |
+**AI Engineering & Vibe Coding**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Agentic AI](https://img.shields.io/badge/Agentic%20AI-Autonomous%20Workflows-6D28D9?style=flat-square)
+![Advanced RAG](https://img.shields.io/badge/Advanced%20RAG-Hybrid%20Search%20%26%20Reranking-059669?style=flat-square)
+![Vibe Coding](https://img.shields.io/badge/Vibe%20Coding-Rapid%20Prototyping-F59E0B?style=flat-square)
+![Microservices](https://img.shields.io/badge/Cloud%20Microservices-Testing%20%26%20CI%2FCD-2563EB?style=flat-square)
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 **Program Leadership & Enterprise Frameworks**  
 ![SAFe 6](https://img.shields.io/badge/SAFe%206-RTE%20%26%20PI%20Planning-0052CC?style=flat-square)
