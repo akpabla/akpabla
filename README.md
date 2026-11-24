@@ -59,7 +59,7 @@ Over the last 13+ years, I’ve led globally distributed engineering teams (60+ 
 
 ### 🏆 Enterprise Track Record
 
-- **Large-Scale Program Delivery:** Directed PI Planning and cross-team dependencies across 6 globally distributed Agile teams delivering banking/TCR solutions for **Citibank** and **Wintrust** (NCR / Candescent).
+- **Large-Scale Program Delivery:** Directed PI Planning and cross-team dependencies across 6 globally distributed Agile teams delivering banking/TCR solutions.
 - **Enterprise Consulting:** Led technical delivery and transformation initiatives for **Manulife Canada**, **Abbott Labs**, and **Novartis** (Cognizant).
 - **Operational Excellence:** Designed P1/P2 enterprise incident management protocols, automated backlog health dashboards, and Lean-Agile KPI frameworks.
 
